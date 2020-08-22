@@ -1,0 +1,6 @@
+framework module Pods_Hush {
+  umbrella header "Pods-Hush-umbrella.h"
+
+  export *
+  module * { export * }
+}
